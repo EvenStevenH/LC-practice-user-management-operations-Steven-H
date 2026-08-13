@@ -47,27 +47,3 @@ VALUES
   SELECT * FROM users
   WHERE firstName = 'Samuel' OR lastName = 'Lee' 
   ORDER BY age LIMIT 3;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
